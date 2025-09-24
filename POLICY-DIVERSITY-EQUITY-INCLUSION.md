@@ -1,4 +1,4 @@
-# LoESoft Games Policy: `Diversity, Equity and Inclusion (DEI)`
+# LoESoft Games - Policy: `Diversity, Equity and Inclusion (DEI)`
 
 ## Introduction
 At LoESoft Games, diversity, equity, and inclusion are not just principles. They are essential to how we work, create, and grow together. We recognize that our strength comes from the unique perspectives, experiences, and identities of our team members.
