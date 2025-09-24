@@ -1,4 +1,4 @@
-# LoESoft Games Policy: `Remote Work`
+# LoESoft Games - Policy: `Remote Work`
 
 ## Introduction
 At LoESoft Games, we believe that meaningful work is not defined by where it takes place. What truly matters is the creativity, commitment, and collaboration of our team. Remote work is a core part of our culture, reflecting our trust in employees and our commitment to flexibility, innovation, and well-being.
