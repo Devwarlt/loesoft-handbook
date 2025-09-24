@@ -6,8 +6,10 @@ Here you will find all internal and public policies that define how we work, col
 Our goal is to maintain transparency, consistency, and alignment with the values that guide our culture and daily practices.  
 
 ## Available Policies
-
-- [Remote Work Policy](./REMOTE-WORK-POLICY.md)
+- [Policy: `Remote Work`](./POLICY-REMOTE-WORK.md)
+- [Policy: `Diversity, Equity, and Inclusion (DEI)`](./POLICY-DIVERSITY-EQUITY-INCLUSION.md)
+- [Policy: `Sustainability`](./POLICY-SUSTAINABILITY.md)
+- [Policy: `Work-Life Balance`](./POLICY-WORK-LIFE-BALANCE.md)
 
 ## About LoESoft Games
 LoESoft Games is an independent game development studio focused on creating immersive, fast-paced, and community-driven gaming experiences. Inspired by classic pixel-art RPGs and modern action-adventure titles, we combine innovation with nostalgic charm to deliver engaging worlds that players can truly make their own.  
